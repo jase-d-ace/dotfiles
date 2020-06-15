@@ -1,0 +1,5 @@
+[core]
+	excludesfile = /home/jase/.gitignore_global
+[user]
+	email = jason.andrada@parsely.com
+	name = Jason Andrada
